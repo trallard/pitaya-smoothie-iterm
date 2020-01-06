@@ -9,9 +9,8 @@
 <br>
 
 ![License](https://img.shields.io/badge/License-BSD%203--Clause-gray.svg?colorA=2D2A56&colorB=7A76C2&style=flat.svg)
-[![Version](https://vsmarketplacebadge.apphb.com/version/trallard.pitaya-smoothie.svg?subject=Pitaya%20Smoothie&colorA=2D2A56&colorB=7A76C2&style=flat.svg)](https://marketplace.visualstudio.com/items?itemName=trallard.pitaya-smoothie)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-[![GitHub release](https://img.shields.io/github/release/trallard/pitaya-smoothie-iterm.svg?subject=Pitaya%20Smoothie&colorA=2D2A56&colorB=7A76C2&style=flat.svg)](https://GitHub.com//trallard/pitaya-smoothie-iterm/releases/)
+[![GitHub release](https://img.shields.io/github/release/trallard/pitaya-smoothie-iterm.svg?colorA=2D2A56&colorB=7A76C2&style=flat.svg)](https://GitHub.com/pitaya-smoothie-iterm/releases/)
 
 <table width='100%' align="center">
  <tr>
