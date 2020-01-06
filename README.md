@@ -10,7 +10,8 @@
 
 ![License](https://img.shields.io/badge/License-BSD%203--Clause-gray.svg?colorA=2D2A56&colorB=7A76C2&style=flat.svg)
 [![Version](https://vsmarketplacebadge.apphb.com/version/trallard.pitaya-smoothie.svg?subject=Pitaya%20Smoothie&colorA=2D2A56&colorB=7A76C2&style=flat.svg)](https://marketplace.visualstudio.com/items?itemName=trallard.pitaya-smoothie)
-
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![GitHub release](https://img.shields.io/github/release/trallard/pitaya-smoothie-iterm.svg?subject=Pitaya%20Smoothie&colorA=2D2A56&colorB=7A76C2&style=flat.svg)](https://GitHub.com//trallard/pitaya-smoothie-iterm/releases/)
 
 <table width='100%' align="center">
  <tr>
@@ -60,7 +61,7 @@ Everyone should follow our [code of conduct](./CODE_OF_CONDUCT.md) and to check 
 
 ## Pitaya Smoothie in other places <img alt="medal" src="https://github.com/trallard/pitaya_smoothie/blob/master/images/icons/title.png" width="50" />
 
-- Iterm theme [https://github.com/trallard/pitaya_smoothie_iterm](https://github.com/trallard/pitaya_smoothie_iterm)
+- VS Code theme [https://github.com/trallard/pitaya_smoothie](https://github.com/trallard/pitaya_smoothie)
 
 ## License <img alt="documents" src="https://github.com/trallard/pitaya_smoothie/blob/master/images/icons/archives.png" width="50" />
 
