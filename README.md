@@ -71,3 +71,5 @@ Everyone should follow our [code of conduct](./CODE_OF_CONDUCT.md) and to check 
 - Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> and adapted to match the theme's colours.
 
 - The logo font is Attractype Reborn from [Garisman Studio](https://befonts.com/designer/garisman-studio).
+  
+- Theme tested using [terminal.sexy](https://terminal.sexy/#GBA2_v7_AAAA6jBrMc7A_8FeeZjymlf4ni7L0tLTeHiZ_26ceM_H9c2Olazxv5L-rF3M8O_x)
