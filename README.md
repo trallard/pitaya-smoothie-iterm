@@ -25,7 +25,7 @@
 
 ## Installation <img alt="cog" src="https://github.com/trallard/pitaya_smoothie/blob/master/images/icons/settings.png?raw=true" width="50"/>
 
-1. [Download Pitaya Smoothie for iTerm2]()
+1. [Download Pitaya Smoothie for iTerm2](https://raw.githubusercontent.com/trallard/pitaya-smoothie-iterm/master/pitaya-smoothie.itermcolors)
 2. Install [iTerm](https://www.iterm2.com/)
 3. Press <kbd>Cmd</kbd> + <kbd>,</kbd> to open preferences
 4. Visit profiles -> [Your profile] -> Colors
