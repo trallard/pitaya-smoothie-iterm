@@ -21,7 +21,7 @@
  </td>
 </table>
 
-:sparkles: If you want to install the VS Code theme [visit the VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=trallard.pitaya-smoothie&WT.mc_id=pitaya_smoothie-github-taallard) :sparkles:
+:sparkles: If you want to install the VS Code theme [visit the VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=trallard.pitaya-smoothie&WT.mc_id=academic-0000-taallard) :sparkles:
 
 ## Installation <img alt="cog" src="https://github.com/trallard/pitaya_smoothie/blob/master/images/icons/settings.png?raw=true" width="50"/>
 
