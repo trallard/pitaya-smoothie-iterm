@@ -1,10 +1,10 @@
 <div align="center">
- <img alt="Logo" src="https://github.com/trallard/pitaya_smoothie/blob/master/images/logos/logo_squared.png?raw=true" width="250" />
+ <img alt="Logo" src="https://github.com/trallard/pitaya_smoothie/blob/main/images/logos/logo_squared.png?raw=true" width="250" />
 </div>
 <br>
 
 <div align="center">
- <img alt="Logo" src="https://github.com/trallard/pitaya_smoothie/blob/master/images/logos/wording.png?raw=true" width="400" />
+ <img alt="Logo" src="https://github.com/trallard/pitaya_smoothie/blob/main/images/logos/wording.png?raw=true" width="400" />
 </div>
 <br>
 
@@ -23,9 +23,9 @@
 
 :sparkles: If you want to install the VS Code theme [visit the VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=trallard.pitaya-smoothie&WT.mc_id=academic-0000-taallard) :sparkles:
 
-## Installation <img alt="cog" src="https://github.com/trallard/pitaya_smoothie/blob/master/images/icons/settings.png?raw=true" width="50"/>
+## Installation <img alt="cog" src="https://github.com/trallard/pitaya_smoothie/blob/main/images/icons/settings.png?raw=true" width="50"/>
 
-1. [Download Pitaya Smoothie for iTerm2](https://raw.githubusercontent.com/trallard/pitaya-smoothie-iterm/master/pitaya-smoothie.itermcolors)
+1. [Download Pitaya Smoothie for iTerm2](https://raw.githubusercontent.com/trallard/pitaya-smoothie-iterm/main/pitaya-smoothie.itermcolors)
 2. Install [iTerm](https://www.iterm2.com/)
 3. Press <kbd>Cmd</kbd> + <kbd>,</kbd> to open preferences
 4. Visit profiles -> [Your profile] -> Colors
@@ -33,7 +33,7 @@
 6. Import the `pitaya_smoothie.itermcolors` file
 7. Choose `pitaya smoothie` from the color presets
 
-## Snapshots <img alt="code" src="https://github.com/trallard/pitaya_smoothie/blob/master/images/icons/code.png" width="50" />
+## Snapshots <img alt="code" src="https://github.com/trallard/pitaya_smoothie/blob/main/images/icons/code.png" width="50" />
 
 <div align="center">
 <img src="./assets/terminal.png" alt='terminal snapshot'/>
@@ -42,7 +42,7 @@
 
 </div>
 
-## Preferences shown in the previews <img alt="design" src="https://github.com/trallard/pitaya_smoothie/blob/master/images/icons/design.png" width="50" />
+## Preferences shown in the previews <img alt="design" src="https://github.com/trallard/pitaya_smoothie/blob/main/images/icons/design.png" width="50" />
 
 ![preferences](assets/preferences.png)
 
@@ -50,7 +50,7 @@ The cursor and link colours used is `#f85e9f` and I changed the selection colour
 
 I also use the Fira Code Font with ligatures enabled.
 
-## Contributing <img alt="hands" src="https://github.com/trallard/pitaya_smoothie/blob/master/images/icons/teamwork.png" width="50" />
+## Contributing <img alt="hands" src="https://github.com/trallard/pitaya_smoothie/blob/main/images/icons/teamwork.png?raw=true" width="50" />
 
 🚧 This project is always a work in progress, and everyone is welcome and encouraged to collaborate in it. 🚧
 
@@ -58,15 +58,15 @@ Everyone should follow our [code of conduct](./CODE_OF_CONDUCT.md) and to check 
 
 <!-- TODO: add snapshots -->
 
-## Pitaya Smoothie in other places <img alt="medal" src="https://github.com/trallard/pitaya_smoothie/blob/master/images/icons/title.png" width="50" />
+## Pitaya Smoothie in other places <img alt="medal" src="https://github.com/trallard/pitaya_smoothie/blob/main/images/icons/title.png?raw=true" width="50" />
 
 - VS Code theme [https://github.com/trallard/pitaya_smoothie](https://github.com/trallard/pitaya_smoothie)
 
-## License <img alt="documents" src="https://github.com/trallard/pitaya_smoothie/blob/master/images/icons/archives.png" width="50" />
+## License <img alt="documents" src="https://github.com/trallard/pitaya_smoothie/blob/main/images/icons/archives.png?raw=true" width="50" />
 
 **Licensed** as BSD-3 ⓒ [Tania Allard](https://bitsandchips.me/).
 
-## Attributions <img alt="star" src="https://github.com/trallard/pitaya_smoothie/blob/master/images/icons/favorite.png" width="50" />
+## Attributions <img alt="star" src="https://github.com/trallard/pitaya_smoothie/blob/main/images/icons/favorite.png?raw=true" width="50" />
 
 - Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> and adapted to match the theme's colours.
 
